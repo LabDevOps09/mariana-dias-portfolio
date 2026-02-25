@@ -5,8 +5,8 @@
 
 **Formação Acadêmica:**
 
-- **Graduação**: Licenciatura em História  
-- **Pós-Graduação**: Engenharia de Software 
+- **Graduação**: Licenciatura em História  - 2004
+- **Pós-Graduação**: Engenharia de Software - 2024
 
 ---
 
